@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "以太网监听", "以太网监听\以太网监听.vcxproj", "{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Debug|x64.ActiveCfg = Debug|x64
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Debug|x64.Build.0 = Debug|x64
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Debug|x86.Build.0 = Debug|Win32
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Release|x64.ActiveCfg = Release|x64
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Release|x64.Build.0 = Release|x64
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Release|x86.ActiveCfg = Release|Win32
+		{CE6AEB8E-E784-44D0-8A90-1F6F49E9EF0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A812C1-E696-418C-AF9B-5A8723155F87}
+	EndGlobalSection
+EndGlobal

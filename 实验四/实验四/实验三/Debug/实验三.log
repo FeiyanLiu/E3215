@@ -1,0 +1,8 @@
+﻿  实验三.cpp
+C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\实验三\实验三.cpp(141,13): warning C4101: “ltime”: 未引用的局部变量
+C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\实验三\实验三.cpp(143,13): warning C4101: “ih”: 未引用的局部变量
+C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\实验三\实验三.cpp(145,10): warning C4101: “sport”: 未引用的局部变量
+C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\实验三\实验三.cpp(144,8): warning C4101: “ip_len”: 未引用的局部变量
+C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\实验三\实验三.cpp(145,17): warning C4101: “dport”: 未引用的局部变量
+C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\实验三\实验三.cpp(250,13): warning C4101: “ltime”: 未引用的局部变量
+  实验三.vcxproj -> C:\Users\11443\Desktop\计算机网络\实验\实验四\实验四\Debug\实验三.exe
